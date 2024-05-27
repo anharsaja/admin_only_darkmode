@@ -35,7 +35,7 @@ Buat database dan kaitkan pada .ENV
   php artisan migrate
 ```
 ```bash
-    php artisan db:seed
+  php artisan db:seed
 ```
 
 Start the server
