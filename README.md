@@ -7,8 +7,8 @@ Tampilan AdminDashboard only
 
 ## Screenshots
 
-![App Screenshot]([./public/build/images/screenshot_1.png](https://github.com/anharsaja/admin_only_darkmode/blob/main/public/img/screenshot_1.png))
-![App Screenshot]([./public/build/images/screenshot_2.png](https://github.com/anharsaja/admin_only_darkmode/blob/main/public/img/screenshot_2.png))
+![App Screenshot](https://github.com/anharsaja/admin_only_darkmode/blob/main/public/img/screenshot_1.png)
+![App Screenshot](https://github.com/anharsaja/admin_only_darkmode/blob/main/public/img/screenshot_2.png)
 
 
 ## Run Locally
