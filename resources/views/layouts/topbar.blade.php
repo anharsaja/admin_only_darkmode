@@ -192,8 +192,8 @@
                     id="page-header-user-dropdown-v" data-bs-toggle="dropdown" aria-haspopup="true"
                     aria-expanded="false">
                     <img class="rounded-circle header-profile-user"
-                        src="{{ URL::asset('build/images/users/avatar-3.jpg') }}" alt="Header Avatar">
-                    <span class="d-none d-xl-inline-block ms-2 fw-medium font-size-15">Martin Gurley</span>
+                        src="{{ URL::asset('build/images/users/kucing.jpg') }}" alt="Header Avatar">
+                    <span class="d-none d-xl-inline-block ms-2 fw-medium font-size-15">Kucing Rawrr</span>
                 </button>
                 <div class="dropdown-menu dropdown-menu-end pt-0">
                     <div class="p-3 border-bottom">
